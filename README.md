@@ -1,2 +1,6 @@
 # hello-world
-Just another repository.
+
+Hello everyone!
+
+josemicpy here, just testing GitHub. 
+Seems the beginning of a great journey! :)
